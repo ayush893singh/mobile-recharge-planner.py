@@ -120,6 +120,5 @@ A simple Python application that helps users choose a mobile recharge plan and d
 
 ---
 
-Author
-
-Ayush Singh
+# Author
+Ayush Singh https://github.com/ayush893singh
