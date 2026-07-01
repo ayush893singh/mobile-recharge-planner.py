@@ -1,11 +1,9 @@
 # Mobile Recharge Planner
-
 A simple Python project that allows users to select a mobile recharge plan and displays the recharge details, including the selected plan and its validity.
 
 ---
 
-Features
-
+# Features
 - Enter a mobile number
 - Display multiple recharge plans
 - Select a recharge plan
@@ -15,14 +13,12 @@ Features
 
 ---
 
-Technologies Used
-
+# Technologies Used
 - Python
 
 ---
 
-Concepts Used
-
+# Concepts Used
 This project uses:
 
 - Variables
@@ -33,8 +29,7 @@ This project uses:
 
 ---
 
-Available Recharge Plans
-
+## Available Recharge Plans
 Plan| Price| Validity
 Plan 1| ₹199| 28 Days
 Plan 2| ₹299| 28 Days
@@ -43,7 +38,7 @@ Plan 4| ₹599| 84 Days
 
 ---
 
-Installation
+# Installation
 
 1. Install Python on your computer.
 2. Download or clone this repository.
@@ -51,14 +46,12 @@ Installation
 
 ---
 
-How to Run
-
+# How to Run
 python main.py
 
 ---
 
-How It Works
-
+# How It Works
 1. Enter your mobile number.
 2. View the available recharge plans.
 3. Select a plan by entering its number.
@@ -66,8 +59,7 @@ How It Works
 
 ---
 
-Example Output
-
+# Example Output
 ===== Mobile Recharge Planner =====
 
 Enter Mobile Number: 9876543210
@@ -83,23 +75,13 @@ Choose a plan (1-4): 3
 
 ===== Recharge Summary =====
 
-Mobile Number : 9876543210
+Mobile Number : 70803089xx
 Recharge Plan : ₹399
 Validity      : 56 Days
 
 ---
 
-Project Structure
-
-Mobile-Recharge-Planner/
-│
-├── main.py
-└── README.md
-
----
-
-Future Improvements
-
+# Future Improvements
 - Validate 10-digit mobile numbers
 - Add support for multiple operators (Jio, Airtel, Vi, BSNL)
 - Store recharge history
@@ -108,13 +90,7 @@ Future Improvements
 
 ---
 
-Repository Name
-
-mobile-recharge-planner
-
----
-
-Repository Description
+# Repository Description
 
 A simple Python application that helps users choose a mobile recharge plan and displays the recharge amount and validity.
 
